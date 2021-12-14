@@ -1,0 +1,14 @@
+{
+  "name": "svg-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "to-png.js",
+  "scripts": {
+    "to-png": "node to-png.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.29.3"
+  }
+}
